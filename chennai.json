@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Chennai, India",
+		"city":"Chennai",
+		"state":"TN",
+		"state_name":"India",
+		"country":"IN",
+		"country_iso3166":"IN",
+		"zip":"00000",
+		"magic":"245",
+		"wmo":"43278",
+		"latitude":"13.06000042",
+		"longitude":"80.25000000",
+		"elevation":"14.9"
+		},
+		"observation_location": {
+		"full":"Chennai, Tamil Nadu",
+		"city":"Chennai",
+		"state":"Tamil Nadu",
+		"country":"IN",
+		"country_iso3166":"IN",
+		"latitude":"13.06",
+		"longitude":"80.25",
+		"elevation":"30 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"ICHENNAI1",
+		"observation_time":"Last Updated on May 28, 11:00 AM IST",
+		"observation_time_rfc822":"Mon, 28 May 2018 11:00:11 +0530",
+		"observation_epoch":"1527485411",
+		"local_time_rfc822":"Mon, 28 May 2018 11:16:14 +0530",
+		"local_epoch":"1527486374",
+		"local_tz_short":"IST",
+		"local_tz_long":"Asia/Kolkata",
+		"local_tz_offset":"+0530",
+		"weather":"Partly Cloudy",
+		"temperature_string":"95.4 F (35.2 C)",
+		"temp_f":95.4,
+		"temp_c":35.2,
+		"relative_humidity":"67%",
+		"wind_string":"From the SW at 6.0 MPH Gusting to 12.0 MPH",
+		"wind_dir":"SW",
+		"wind_degrees":223,
+		"wind_mph":6.0,
+		"wind_gust_mph":"12.0",
+		"wind_kph":9.7,
+		"wind_gust_kph":"19.3",
+		"pressure_mb":"1004",
+		"pressure_in":"29.65",
+		"pressure_trend":"-",
+		"dewpoint_string":"83 F (28 C)",
+		"dewpoint_f":83,
+		"dewpoint_c":28,
+		"heat_index_string":"121 F (49 C)",
+		"heat_index_f":121,
+		"heat_index_c":49,
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"121 F (49 C)",
+		"feelslike_f":"121",
+		"feelslike_c":"49",
+		"visibility_mi":"3.7",
+		"visibility_km":"6.0",
+		"solarradiation":"--",
+		"UV":"12","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/43278.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICHENNAI1",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=13.060000,80.250000",
+		"nowcast":""
+	}
+}
